@@ -1,15 +1,8 @@
 /**
- * my_function - This is a description
+ * main - Print text to standard output using puts() funtion.
+ * Return: program returns 0
  */
 #include <stdio.h>
-/**
- * main - Entry point
- *
- * Description: 'the program's description'
- * @parameter: describe the parameter
- *
- * Return: Always 0 (Success)
- */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
